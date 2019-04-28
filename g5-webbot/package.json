@@ -1,0 +1,11 @@
+{
+  "name": "device-telemetry",
+  "version": "0.0.2",
+  "private": true,
+  "main": "index.js",
+  "author": "Ramon López",
+  "dependencies": {
+    "azure-storage": "^2.10.3",
+    "uuid": "^3.3.2"
+  }
+}

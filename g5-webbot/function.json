@@ -1,0 +1,23 @@
+{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "bot-queue-g5-webbot",
+      "connection": "AzureWebJobsDashboard"
+    },
+    {
+      "type": "http",
+      "name": "res",
+      "direction": "out"
+    },
+    {
+      "type": "bot",
+      "name": "$return",
+      "botId": "testbot",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

@@ -1,0 +1,23 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "15.0.28307.222",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "8f87fadf-88f3-460b-853e-d8cce0917672",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=g5webbotadbe;AccountKey=schorbGa43CsQ3S6PxXz4GgQEhU0TWl2BWw8zn2BGGXvct/xzF0LqUdWrHH2B+Aj3ZJNWSN9FDvkeiBsHnXJWg==;",
+    "AzureWebJobsBotFrameworkDirectLineSecret": "4IiOQmubVVQ.FwaYykjPbBDq6hzBcR2gT7Ghy5pVeKMhWbBJkYH4oCU",
+    "BotQueueName": "bot-queue-g5-webbot",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=g5webbotadbe;AccountKey=schorbGa43CsQ3S6PxXz4GgQEhU0TWl2BWw8zn2BGGXvct/xzF0LqUdWrHH2B+Aj3ZJNWSN9FDvkeiBsHnXJWg==;",
+    "WEBSITE_CONTENTSHARE": "g5-webbot-function",
+    "AzureWebJobsBotFrameworkDirectLineEndpoint": "https://directline.botframework.com/",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "WEBSITE_SITE_NAME": "g5-webbot-function",
+    "AZURE_STORAGE_ACCOUNT": "g5storage",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "AZURE_STORAGE_ACCESS_KEY": "rAqcVQDckScmBAB46lLAgicmK84F8FDort1E4Q5eIThZr+v/Mr6DJ76idx2Q169rduL1oX19YsfTIL/+Ui5nHg==",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=g5webbotadbe;AccountKey=schorbGa43CsQ3S6PxXz4GgQEhU0TWl2BWw8zn2BGGXvct/xzF0LqUdWrHH2B+Aj3ZJNWSN9FDvkeiBsHnXJWg==;"
+  }
+}
